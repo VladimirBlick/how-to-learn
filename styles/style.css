@@ -313,10 +313,11 @@
   min-height: 350px;
   padding: 60px 0px 40px;
   box-sizing: border-box;
+  display: flex;
 }
 
 .footer__columns {
-  margin: auto;
+  margin: 0 auto;
   color: #f2f2f2;
   width: 90%;
   display: flex;
@@ -334,9 +335,7 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  margin-bottom: 18px;
-  margin-top: 18px;
-  margin: 0;
+  margin: 18px 0;
 }
 
 .footer__social-icon {
