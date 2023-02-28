@@ -1,10 +1,10 @@
-.header__link_active {
+.header__link {
   position: absolute;
   color: #2f80ed;
   text-decoration: none;
   transition: opacity 1s;
 }
 
-.header__link_active:hover {
+.header__link:hover {
   opacity: 50%;
 }
