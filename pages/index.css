@@ -1,8 +1,8 @@
 @import url(../vendor/normalize.css);
 @import url(/page/page.css);
 @import url(/page/blocks/header/header.css);
-@import url(/page/blocks/header/logo/logo.css);
-@import url(/page/blocks/header/logo/_place_header/logo_place_header.css);
+@import url(/page/blocks/logo/logo.css);
+@import url(/page/blocks/logo/_place/logo_place_header.css);
 @import url(/page/blocks/header/__title/header__title.css);
 @import url(/page/blocks/header/__subtitle/header__subtitle.css);
 @import url(/page/blocks/header/__link/_active/header__link.css);
@@ -66,7 +66,7 @@
 @import url(/page/blocks/footer/__columns/footer__columns.css);
 @import url(/page/blocks/footer/__link/footer__link.css);
 @import url(/page/blocks/footer/__social-icon/footer__social-icon.css);
-@import url(/page/blocks/footer/logo/__place_footer/logo__place_footer.css);
+@import url(/page/blocks/logo/_place/logo_place_footer.css);
 
 
 
